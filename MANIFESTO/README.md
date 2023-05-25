@@ -44,4 +44,4 @@ The availability, value, and quality of open source are not guaranteed.
 * Work with teams to design and implement mindful control points for open source consumption throughout the SDLC.
 <br>
 
-* Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+* Adopt and develop open source consumption management tooling and processes that support a targeted notification ability similar to those in other industries.
